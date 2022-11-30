@@ -51,10 +51,11 @@ main{
 
 section{
     margin: 3vw;
+
 }
 
 h3{
-    margin-top: 60px;
+    margin-top: 40px;
     font-family: 'Lustria', serif;
     font-size: 20px;
 }
@@ -63,11 +64,13 @@ p{
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
 }
+
 .imgMe{
     border-radius: 15%;
-    width: 150px;
+    width: 160px;
     float: left;
-    padding: 2%;
+    margin-top: 0px;
+    margin-right: 2vw;
 }
 
 
@@ -76,6 +79,7 @@ a{
     font-family: 'Lustria', serif;
     text-decoration: none;
     color:rgb(5, 14, 73);
+    font-size: 13px;
 }
 
 footer{
