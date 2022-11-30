@@ -79,7 +79,12 @@ a{
     font-family: 'Lustria', serif;
     text-decoration: none;
     color:rgb(5, 14, 73);
-    font-size: 13px;
+    font-size: 14px;
+}
+
+a:hover{
+    color: #000;
+    font-size: 16px;
 }
 
 footer{
