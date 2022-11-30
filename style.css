@@ -49,6 +49,10 @@ main{
     margin: 0 auto;
 }
 
+section{
+    margin: 3vw;
+}
+
 h3{
     margin-top: 60px;
     font-family: 'Lustria', serif;
