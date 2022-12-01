@@ -41,6 +41,7 @@ h2{
     color: rgb(249, 247, 247);
     font-size: 2vw;
     border-spacing: 0;
+    text-shadow: 1px 1px 2px black;
     font-family: 'Lustria', serif;
 }
 
